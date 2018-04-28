@@ -10,6 +10,7 @@ const styles = {
 const App = () => (
   <div style={styles}>
     <Hello name="CodeSandbox and Netlify" />
+    ...
   </div>
 );
 
